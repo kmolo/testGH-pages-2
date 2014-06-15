@@ -1,0 +1,3 @@
+[submodule "testGH-pages-2.wiki"]
+	path = testGH-pages-2.wiki
+	url = https://github.com/kmolo/testGH-pages-2.wiki.git
